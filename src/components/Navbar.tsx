@@ -11,7 +11,7 @@ const Navbar = () => {
     { title: "Home", href: "/" },
     { title: "Features", href: "/features" },
     { title: "About me", href: "/about" },
-    { title: "Studio", href: "/studio" },
+    { title: "Studio", href: "/" },
   ];
 
   const toggleMenu = () => {
